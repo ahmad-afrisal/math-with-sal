@@ -3,6 +3,10 @@ import katex from 'markdown-it-katex'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // Tambahkan ini agar path CSS/JS tidak pecah saat di-deploy
+  // Sesuaikan dengan nama repository Anda di GitHub
+  base: '/math-with-sal/',
+
   title: "Math with Sal",
   description: "Belajar Matematika dengan Logika",
   markdown: {
