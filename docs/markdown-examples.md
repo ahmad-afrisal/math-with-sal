@@ -39,7 +39,37 @@ Secara matematis, bilangan pecahan dapat disimbolkan dengan “a/b”. Bilangan 
 Bilangan pecahan terbagi menjadi 4 jenis, yaitu : pecahan biasa, pecahan campuran, pecahan desimal, dan pecahan senilai.
 
 ### 1. Pecahan Biasa
-Pecahan biasa terbagi menjadi dua macam, yaitu pecahan sejati dan pecahan tidak sejati. Pecahan sejati merupakan bilangan pecahan yang pembilangnya lebih kecil daripada penyebutnya. Sedangkan pecahan tidak sejati merupakan kebalikannya. Misalkan diketahui sebuah bilangan pecahan a/b, jika a < b disebut pecahan sejati, jika a > b disebut pecahan tidak sejati.
+Pecahan biasa terbagi menjadi dua macam, yaitu **pecahan sejati (Murni)** dan **pecahan tidak sejati (tidak murni)**. 
+
+**Pecahan sejati** merupakan bilangan pecahan yang pembilangnya lebih kecil daripada penyebutnya ika nilai pembilang lebih besar dari nilai penyebut (a < b), maka disebut pecahan tidak murni. Contohnya:
+
+Sedangkan **pecahan tidak sejati** merupakan kebalikannya. Jika nilai pembilang lebih besar dari nilai penyebut (a > b), maka disebut pecahan tidak murni. Contohnya: 
+
+
+::: tip
+Dalam matematika, istilah pecahan sejati (murni) dan tidak sejati (tidak murni) sebenarnya merujuk pada hal yang sama. Berikut adalah penjelasan detail mengenai perbedaan keduanya:
+:::
+
+::: details Istilah Sejati vs Tidak Sejati (Bentuk Formal)
+Istilah ini lebih menonjolkan definisi matematis dari sebuah "pecahan". Secara harfiah, pecahan (fraksi) berarti "bagian dari sesuatu yang utuh".
+
+- Sejati: Disebut sejati karena ia benar-benar merepresentasikan "potongan" atau "bagian" yang kurang dari satu keutuhan.
+
+- Tidak Sejati: Disebut tidak sejati karena nilainya sudah mencapai atau melebihi satu keutuhan. Secara teknis, ia bukan lagi sekadar "potongan", melainkan sudah mengandung bilangan bulat di dalamnya.
+:::
+
+:::  details Istilah Murni vs Tidak Murni (Bentuk Penyajian)
+Istilah ini lebih sering digunakan untuk melihat kemurnian bentuknya sebelum diubah ke bentuk lain.
+
+- Murni: Disebut murni karena ia tidak bisa disederhanakan lagi menjadi bilangan bulat atau pecahan campuran. Bentuknya tetap "murni" sebagai pecahan biasa.
+
+- Tidak Murni: Disebut tidak murni karena bentuk ini sering dianggap sebagai "bentuk sementara". Biasanya, dalam hasil akhir perhitungan, pecahan tidak murni akan "dibersihkan" dengan cara diubah menjadi pecahan campuran.
+:::
+
+::: warning Kesimpulan
+Penggunaan dua istilah ini hanya masalah kebiasaan di buku teks. Di Indonesia, istilah Sejati/Tidak Sejati lebih sering ditemukan di kurikulum sekolah formal, sedangkan Murni/Tidak Murni sering digunakan secara bergantian sebagai sinonim untuk memperjelas konsep bahwa pecahan tersebut bisa atau tidak bisa diubah menjadi bilangan campuran.
+:::
+
 
 ### 2. Pecahan Campuran
 Pecahan campuran dapat diperoleh dari pecahan biasa tidak sejati dengan pembagian porogapit bersisa. Pecahan campuran terdiri dari bilangan bulat dan bilangan pecahan biasa. Pecahan campuran dapat disimbolkan sebagai berikut:
