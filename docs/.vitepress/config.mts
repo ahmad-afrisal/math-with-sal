@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import katex from 'markdown-it-katex'
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

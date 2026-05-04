@@ -36,15 +36,17 @@ Bilangan pecahan merupakan salah satu bilangan yang sering kita jumpai dalam pel
 Secara matematis, bilangan pecahan dapat disimbolkan dengan “a/b”. Bilangan a/b bisa dibaca dengan “a per b”. Bilangan a sebagai pembilang(**numerator**) dan bilangan b sebagai penyebut (**denominator**).
 
 ## Jenis - Jenis Bilangan Pecahan
-Bilangan pecahan terbagi menjadi 4 jenis, yaitu : pecahan biasa, pecahan campuran, pecahan desimal, dan pecahan senilai.
+Bilangan pecahan terbagi menjadi 6 jenis, yaitu : pecahan biasa, pecahan campuran, pecahan desimal, dan pecahan senilai.
 
 ### 1. Pecahan Biasa
 Pecahan biasa terbagi menjadi dua macam, yaitu **pecahan sejati (Murni)** dan **pecahan tidak sejati (tidak murni)**. 
 
 **Pecahan sejati** merupakan bilangan pecahan yang pembilangnya lebih kecil daripada penyebutnya ika nilai pembilang lebih besar dari nilai penyebut (a < b), maka disebut pecahan tidak murni. Contohnya:
 
-Sedangkan **pecahan tidak sejati** merupakan kebalikannya. Jika nilai pembilang lebih besar dari nilai penyebut (a > b), maka disebut pecahan tidak murni. Contohnya: 
 
+$$ {1 \over 2 }, {3 \over 4}, { 5 \over 6}, { 3 \over 20 }, { 7 \over 15 }, dsb $$
+Sedangkan **pecahan tidak sejati** merupakan kebalikannya. Jika nilai pembilang lebih besar dari nilai penyebut (a > b), maka disebut pecahan tidak murni. Contohnya: 
+$$ {3 \over 2 }, {5 \over 2}, { 11 \over 6}, { 25 \over 3 }, { 8 \over 7 }, dsb $$
 
 ::: tip
 Dalam matematika, istilah pecahan sejati (murni) dan tidak sejati (tidak murni) sebenarnya merujuk pada hal yang sama. Berikut adalah penjelasan detail mengenai perbedaan keduanya:
@@ -86,6 +88,41 @@ Pecahan senilai merupakan dua atau lebih bilangan pecahan yang memiliki perbandi
 Contoh:
 
 1/2 senilai dengan 4/8, karena perbandingan pembilang dan penyebutnya sama, yaitu 1/2.
+
+### 5. Pecahan Persen (Perseratus)
+
+
+### 6. Pecahan Permil (Perseribu)
+
+Pecahan permil adalah salah satu bentuk pecahan dengan penyebut 1000 (disimbolkan dalam “‰”).
+
+Contoh : 
+
+$$ {120 \over 1000 } = 120\text{‰} $$
+
+$$ {356 \over 1000 } = 256\text{‰} $$
+
+::: warning Bagaimana cara mengubah pecahan ke persen dan permil, juga sebaliknya?
+
+:::
+
+:::  details Cara Mengubah Pecahan Biasa ke Persen dan Permil
+Istilah ini lebih sering digunakan untuk melihat kemurnian bentuknya sebelum diubah ke bentuk lain.
+
+- Murni: Disebut murni karena ia tidak bisa disederhanakan lagi menjadi bilangan bulat atau pecahan campuran. Bentuknya tetap "murni" sebagai pecahan biasa.
+
+- Tidak Murni: Disebut tidak murni karena bentuk ini sering dianggap sebagai "bentuk sementara". Biasanya, dalam hasil akhir perhitungan, pecahan tidak murni akan "dibersihkan" dengan cara diubah menjadi pecahan campuran.
+:::
+
+
+:::  details Cara Mengubah Persen dan Permil ke Pecahan Biasa
+Mengubah penyebutnya menjadi 100/1000 lalu disederhanakan:
+
+$$ 45\% 
+
+:::
+
+
 
 
 
